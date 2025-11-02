@@ -5,7 +5,7 @@
 * Language
 <div>
   <img width="110" src="https://github.com/user-attachments/assets/99180ff4-420d-44c2-a30c-ea5a1a58fff6">
-  <img width="110" src="https://github.com/user-attachments/assets/2f7007a7-58f2-4792-843e-d39ff3fecbe8">
+  <img width="110" src="https://github.com/user-attachments/assets/2ef6043c-b47e-408d-9e14-53cc644fc47d">
 </div>
 
 </br>
